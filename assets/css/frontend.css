@@ -1,0 +1,21 @@
+/**
+ * Frontend CSS for MRx AI COD Fraud Protection
+ */
+
+.mrx-ai-privacy-notice {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-left: 4px solid #0073aa;
+}
+
+.mrx-ai-privacy-notice h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.mrx-ai-privacy-notice p {
+    margin: 0;
+    font-size: 13px;
+}
+
